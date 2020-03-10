@@ -13,7 +13,7 @@ GUI contains an entry for the answer and an enter button.
 archived by ether changing slightly the way the pattern is constructed to make it more 
 difficult to spot or to make the actual matrix bigger than 6x3.
 
- IMPORTANT NOTE: there’s more than one correct answers to the riddle. That’s because to 
+ **IMPORTANT NOTE**: there’s more than one correct answers to the riddle. That’s because to 
 make the answer singular, the program will need one extra rule that will use to construct 
 the matrix, something that will make the pattern harder to figure out. The riddle will have a 
 singular answer to the higher levels though.
