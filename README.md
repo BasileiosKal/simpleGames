@@ -1,2 +1,2 @@
 # simpleGames
-Simple command line games.
+Simple python games.
