@@ -6,6 +6,8 @@ a certain pattern. Next will display it with the 3 numbers of the last row missi
 must find the missing numbers by discovering the hidden pattern behind the rest of the 
 matrix. The next picture is an example of how the riddle will look like.
 
+![Riddle Example](https://raw.githubusercontent.com/BasileiosKal/simpleGames/master/MathRiddle/Images/Example.png)
+
 
 **IMPORTANT NOTE: there’s more than one correct answers to the riddle**. That’s because to 
 make the answer singular, the program will need one extra rule that will use to construct the 
@@ -19,8 +21,7 @@ the actual riddle the user has the option to see 3 different clues or the soluti
 He also can choose to exit the game or play again (if he finds the correct answer). Lastly, the 
 GUI contains an entry for the answer and an enter button. 
  
- 
- ## Future work:
+## Future work:
   For future work, i indent to and different levels of difficulty to the game. That can be 
 archived by ether changing slightly the way the pattern is constructed to make it more 
 difficult to spot or to make the actual matrix bigger than 6x3.
